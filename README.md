@@ -22,7 +22,7 @@ Medical_Expenses decimal(10,2));
 SELECT * FROM Hospital_data;                 -- To get all data about Hospital_data          
 DESC Hospital_data;                          -- To Know Data type
 
-# Hospital_Data_Project
+Hospital_Data_Project
 
  1. Total Number of Patients 
 -- Write an SQL query to find the total number of patients across all hospitals
